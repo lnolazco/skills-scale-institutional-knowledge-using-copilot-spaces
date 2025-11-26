@@ -164,10 +164,10 @@ For detailed guidance on each phase and topic, refer to these comprehensive proc
 
 ## Using These Docs with Copilot Spaces
 
-To leverage these process documents as context for Copilot:
+To leverage these process documents as context for GitHub Copilot:
 - Keep the Project Charter updated in the project repository
-- Add process-specific docs into `.copilot/` directory if you want Copilot Spaces to use them as context
-- Reference these docs when asking Copilot for project management guidance
+- Add process-specific docs into `.copilot/` directory to make them available as knowledge sources for Copilot Spaces
+- Reference these docs when asking Copilot for project management guidance and best practices
 
 ---
 
