@@ -20,6 +20,13 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+## Supporting Roles (as needed)
+- Technical Writer: maintains documentation, release notes, and user-facing materials.
+- Scrum Master: facilitates agile ceremonies, coaches team, removes blockers.
+- UX Designer: designs user experiences, creates prototypes, advocates for users.
+- Business Analyst: elicits requirements, translates business goals, documents acceptance criteria.
+- Support Lead / Customer Advocate: represents user feedback, escalates issues, provides customer insights.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
@@ -37,9 +44,11 @@ Applies to all cross-functional projects that deliver product features, services
 
 ## Communication Cadence
 - Weekly sync between PM + PdM
-- Twice-weekly standups for delivery team (or as agreed)
+- Twice-weekly standups for delivery team (or as agreed, facilitated by Scrum Master when available)
 - Monthly stakeholder updates
 - Ad-hoc escalations as needed
+- Regular documentation reviews with Technical Writer
+- Customer feedback sessions with Support Lead
 
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
