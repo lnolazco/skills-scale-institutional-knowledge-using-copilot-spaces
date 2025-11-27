@@ -98,10 +98,10 @@ Technical Writers maintain clear, accessible project documentation and coordinat
 - Regular syncs with Developers and Product Managers for content updates
 
 ### Interactions with Other Roles
-- **Developers**: Collaborates to understand technical implementation and review documentation PRs
+- **Developers**: Collaborates to understand technical implementation, review documentation PRs, and validate documentation during testing
 - **Product Managers**: Coordinates on feature descriptions, user-facing announcements, and release notes
 - **Support Lead**: Incorporates feedback on documentation gaps and common user questions
-- **QA**: Validates documentation against actual behavior during testing
+- **UX Designer**: Ensures documentation reflects design decisions and user experience
 
 ---
 
