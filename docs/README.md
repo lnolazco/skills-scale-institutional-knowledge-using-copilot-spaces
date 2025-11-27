@@ -52,15 +52,34 @@ Validate quality and acceptance criteria through unit tests, integration tests, 
 ### Stakeholders
 Provide inputs, approvals, and feedback. Participate in reviews and receive regular project updates.
 
+### Supporting Roles (as needed)
+
+#### Technical Writer
+Maintains clear, accessible project documentation, coordinates release notes and user-facing materials. Reviews PRs for documentation completeness and works with developers, PMs, and support teams.
+
+#### Scrum Master
+Facilitates agile ceremonies (standups, sprint planning, reviews, retrospectives), coaches the team on agile principles, and helps resolve blockers.
+
+#### UX Designer
+Designs user experiences, creates wireframes and prototypes, and advocates for customer needs throughout the product lifecycle. Collaborates with Product Managers and Developers.
+
+#### Business Analyst
+Elicits requirements, translates business goals into technical solutions, and documents acceptance criteria. Bridges stakeholders, Product Managers, and Developers.
+
+#### Support Lead / Customer Advocate
+Represents user feedback, escalates critical support issues, and contributes insights to product development. Provides customer perspective to PMs and Developers.
+
 ## Key Workflows and Communication
 
 ### Communication Cadence
-- **Daily standups** (15 min): Focus on progress, blockers, and dependencies
+- **Daily standups** (15 min): Focus on progress, blockers, and dependencies (facilitated by Scrum Master when available)
 - **Weekly PM + PdM sync**: Coordinate delivery and product alignment
 - **Twice-weekly delivery team standups**: As agreed by the team
 - **Monthly stakeholder updates**: Keep all parties informed
 - **Sprint demos/reviews**: At the end of each sprint or milestone
 - **Ad-hoc escalations**: As needed for critical issues
+- **Documentation reviews**: Regular syncs with Technical Writer
+- **Customer feedback sessions**: With Support Lead to inform priorities
 
 ### Status Reporting
 Weekly status template includes:
@@ -94,20 +113,25 @@ Maintain a Risk Register with:
 - Include issue link and acceptance criteria in PR description
 - Run automated tests and linting in CI before requesting review
 - Require at least one approval before merging (or team-defined policy)
+- Technical Writer reviews for documentation completeness
+- UX Designer reviews UI/UX changes for design consistency
 
 ### Release Criteria
 All releases must meet:
 - All acceptance criteria met and PRs merged
 - Passing CI and security scans
-- Release notes drafted
+- Release notes drafted (coordinated by Technical Writer)
 - Rollback/mitigation plan documented
 - Smoke tests prepared
+- Documentation updated and published
+- Support team briefed on changes
 
 ### Continuous Improvement
 - Run retrospectives after each sprint, release, milestone, or incident
 - Track 2-3 prioritized action items with owners and due dates
 - Review outstanding actions in weekly PM syncs
 - Measure impact of improvements and celebrate successes
+- Scrum Master facilitates retrospectives and tracks action items
 
 ## Key Artifacts
 
@@ -161,6 +185,36 @@ For detailed guidance on each phase and topic, refer to these comprehensive proc
 2. Follow PR workflows and testing requirements
 3. Participate in planning, demos, and retrospectives
 4. Review [Release and Deployment](octoacme-release-and-deployment.md) procedures
+
+### For Technical Writers
+1. Review [Roles and Personas](octoacme-roles-and-personas.md) to understand documentation responsibilities
+2. Coordinate release notes during [Release and Deployment](octoacme-release-and-deployment.md)
+3. Maintain documentation standards throughout [Execution](octoacme-execution-and-tracking.md)
+4. Participate in PR reviews for documentation completeness
+
+### For Scrum Masters
+1. Facilitate agile ceremonies as outlined in [Execution and Tracking](octoacme-execution-and-tracking.md)
+2. Lead [Retrospectives](octoacme-retrospective-and-continuous-improvement.md) for continuous improvement
+3. Support [Planning](octoacme-project-planning.md) activities and sprint ceremonies
+4. Help remove blockers and coach team on agile practices
+
+### For UX Designers
+1. Contribute design specifications during [Planning](octoacme-project-planning.md)
+2. Review UI/UX changes in [Execution](octoacme-execution-and-tracking.md) PR workflow
+3. Validate user experience in demos and reviews
+4. Collaborate with Product Managers on user needs
+
+### For Business Analysts
+1. Document requirements during [Project Initiation](octoacme-project-initiation.md)
+2. Clarify acceptance criteria in [Planning](octoacme-project-planning.md)
+3. Bridge stakeholders and technical teams throughout [Execution](octoacme-execution-and-tracking.md)
+4. Validate solutions against business needs
+
+### For Support Leads
+1. Provide customer insights during [Initiation](octoacme-project-initiation.md) and [Planning](octoacme-project-planning.md)
+2. Contribute feedback in demos and [Retrospectives](octoacme-retrospective-and-continuous-improvement.md)
+3. Escalate critical customer issues as outlined in [Risks and Communication](octoacme-risks-and-communication.md)
+4. Brief support team during [Release and Deployment](octoacme-release-and-deployment.md)
 
 ## Using These Docs with Copilot Spaces
 
