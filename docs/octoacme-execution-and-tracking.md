@@ -4,7 +4,7 @@
 Guidance for managing day-to-day execution and tracking progress toward project milestones.
 
 ## Team Rhythm
-- Daily standups (15 min) — focus on progress, blockers, dependencies (facilitated by Scrum Master when applicable)
+- Daily standups (15 min) — focus on progress, blockers, dependencies (facilitated by Scrum Master when available)
 - Weekly delivery sync — show progress, updates, and flagged risks
 - Demo/Review at the end of each sprint or milestone
 - Support Lead provides customer feedback insights during reviews

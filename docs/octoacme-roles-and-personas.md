@@ -26,6 +26,13 @@ Developers design, build, test, and deliver software components. They collaborat
 - PR descriptions and code review comments
 - Technical design docs when needed
 
+### Interactions with Other Roles
+- **Product Managers**: Collaborates on feature implementation and technical trade-offs
+- **Project Managers**: Provides estimates, reports progress, and escalates technical blockers
+- **Technical Writer**: Works together on technical documentation and API references
+- **UX Designer**: Implements designs and provides feedback on feasibility
+- **Business Analyst**: Clarifies technical questions about requirements and acceptance criteria
+
 ---
 
 ## Product Managers
@@ -48,6 +55,13 @@ Product Managers define what should be built to deliver customer and business va
 - Weekly alignment with PM and engineering leads
 - Roadmap updates and stakeholder briefings
 - Acceptance criteria and feature specs
+
+### Interactions with Other Roles
+- **Developers**: Collaborates on feature requirements, technical trade-offs, and design decisions
+- **Project Managers**: Partners on roadmap prioritization and delivery timelines
+- **UX Designer**: Works closely on user needs, design validation, and usability research
+- **Business Analyst**: Aligns on business requirements and success metrics
+- **Support Lead**: Incorporates customer feedback into product roadmap and priorities
 
 ---
 
@@ -72,6 +86,13 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Weekly status updates and stakeholder reports
 - Risk registers and decision logs
 - Coordination via project boards and meeting facilitation
+
+### Interactions with Other Roles
+- **Product Managers**: Aligns on delivery timelines, scope, and resource allocation
+- **Developers**: Coordinates on schedules, dependencies, and technical risks
+- **Scrum Master**: Partners on team dynamics, process improvements, and blocker removal
+- **Business Analyst**: Collaborates on requirements clarity and stakeholder coordination
+- **Support Lead**: Escalates customer-critical issues and coordinates release communications
 
 ---
 

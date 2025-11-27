@@ -39,7 +39,7 @@ Incident Communication
 - Triage summary
 - Actions being taken
 - Expected timeline
-- Post-incident blameless retrospective scheduled (facilitated by Scrum Master)
+- Post-incident blameless retrospective scheduled (facilitated by Scrum Master when available)
 - Customer impact assessment (Support Lead)
 
 ## Escalation Paths
